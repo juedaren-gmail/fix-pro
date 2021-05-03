@@ -6,7 +6,7 @@
     <description>Recent content in FIX API Related Posts on FIX API PRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.fixpro.cc/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,16 @@ ATC brokers Ltd announces year on year total volumes between 2020 and 2021, have
       <description>Exchanges Launch FIX API Several exchanges with FIX API, the multi-asset class trading platforms, announced recently that they launched and traded the anonymous interbank FX Swaps order book with streaming quotes.
 The trade, conducted with the exchanges&amp;rsquo; central counterparty partner Standard Chartered Bank, represents a landmark in this $3.2 T/day* market.
 In addition to the central counterparty option, bilateral trading for short tenors is also available. Trading in the one-week tenor – the most liquid part of the market which accounts for around 65% of transacted volume – is free on the Exchanges&amp;rsquo; platform.</description>
+    </item>
+    
+    <item>
+      <title>New Order Management System and FIX API</title>
+      <link>https://www.fixpro.cc/new-order-management-system/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.fixpro.cc/new-order-management-system/</guid>
+      <description>New Order Management System and FIX API Fintechee, a leader in technology solutions for the automated trading, FIX API, white label broker Forex and expert advisor studio, will launch a sell-side Order Management System making clients to streamline their trading operations later 2021.
+Fintechee FIX API trading Platform is a leading provider of professional trading technology solutions for Forex, Cryptocurrency and CFD markets. With over clients including leading brokers, clearing firms and prop groups in over countries, Fintechee provides solutions tailored to clients’ needs.</description>
     </item>
     
   </channel>
